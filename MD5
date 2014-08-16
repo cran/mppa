@@ -1,0 +1,15 @@
+bc3bbe8a6d92c531bd7096f7ad1b06d5 *DESCRIPTION
+57cf2b3bfb1d80b4d74bd01f0272562d *NAMESPACE
+2ca5948effecd2d3aabdf797df1a6288 *R/crt.R
+15aa126726b945bbe587f2fc29f3301b *R/mproc.R
+02e39f346a0f92006fc57c64160f0c94 *R/tests.R
+54a92733c1ccbd90994638701909560c *man/F.test.Rd
+d1ea7b54436b260528b2846ca5f99871 *man/TMT.test.Rd
+b5af89962a55796be28a19c50bbd5871 *man/corrtest.Rd
+ad1bde5bf6e04a4e450f46b0cbd7dae1 *man/mkF.Rd
+4094d90198d12c22797c1a5e71940d60 *man/mp.Rd
+84360a0997c3d06035bf3ed2f643153a *man/mppa-package.Rd
+8a6583986c5d263ae25fdc0512ce34da *man/mproc-class.Rd
+f2ca4c010b280771d25732edbba2d60c *man/mproc-methods.Rd
+eb162738930f284b9db570739d939e3d *man/place.Rd
+281fe8c0ab7572731dfbcdfb044f672d *man/simes.test.Rd
